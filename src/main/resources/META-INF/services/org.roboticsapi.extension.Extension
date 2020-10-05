@@ -1,0 +1,4 @@
+org.roboticsapi.device.mp.robotd.MPRobotDExtension
+org.roboticsapi.device.mp.robotd.javarcc.MPRobotDJavaRccExtension
+org.roboticsapi.device.mp.robotd.runtime.MPRobotDRuntimeExtension
+org.roboticsapi.device.mp.robotd.visualization.MPRobotDVisualizationExtension
